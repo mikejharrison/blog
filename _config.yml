@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: jekyll-theme-hackcss
+title: mike harrison
 description: > # this means to ignore newlines until "baseurl:"
-  A minimalistic theme for Jekyll, based on hack.css
-repository: https://github.com/wemake-services/jekyll-theme-hackcss
-baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
-url: https://wemake-services.github.io  # the base hostname & protocol for your site
+  Minimalist writings on teaching and training, based on hack.css
+repository: https://github.com/mikejharrison/blog
+baseurl: /  # the subpath of your site, e.g. /blog
+url: https://mikejharrison.github.io/blog  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
